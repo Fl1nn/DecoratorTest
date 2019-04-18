@@ -1,0 +1,10 @@
+C:\Users\Lin\source\repos\DecoratorDemo\DecoratorDemo\bin\Debug\DecoratorDemo.exe.config
+C:\Users\Lin\source\repos\DecoratorDemo\DecoratorDemo\bin\Debug\DecoratorDemo.exe
+C:\Users\Lin\source\repos\DecoratorDemo\DecoratorDemo\bin\Debug\DecoratorDemo.pdb
+C:\Users\Lin\source\repos\DecoratorDemo\DecoratorDemo\obj\Debug\DecoratorDemo.csprojAssemblyReference.cache
+C:\Users\Lin\source\repos\DecoratorDemo\DecoratorDemo\obj\Debug\DecoratorDemo.Properties.Resources.resources
+C:\Users\Lin\source\repos\DecoratorDemo\DecoratorDemo\obj\Debug\DecoratorDemo.Store.resources
+C:\Users\Lin\source\repos\DecoratorDemo\DecoratorDemo\obj\Debug\DecoratorDemo.csproj.GenerateResource.cache
+C:\Users\Lin\source\repos\DecoratorDemo\DecoratorDemo\obj\Debug\DecoratorDemo.csproj.CoreCompileInputs.cache
+C:\Users\Lin\source\repos\DecoratorDemo\DecoratorDemo\obj\Debug\DecoratorDemo.exe
+C:\Users\Lin\source\repos\DecoratorDemo\DecoratorDemo\obj\Debug\DecoratorDemo.pdb
